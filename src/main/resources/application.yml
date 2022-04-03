@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Credit Card Processor Application
+
+  datasource:
+    url: jdbc:h2:mem:carddb
+
+
+server:
+  port: 9091
